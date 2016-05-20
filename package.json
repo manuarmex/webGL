@@ -1,0 +1,21 @@
+{
+  "name": "webGL",
+  "version": "1.0.0",
+  "description": "WebGL development",
+  "main": "earth.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/manuarmex/webGL.git"
+  },
+  "author": "Manuel Arce",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/manuarmex/webGL/issues"
+  },
+  "dependencies": {
+    "three-js": "~76.0.2"
+  }
+}
