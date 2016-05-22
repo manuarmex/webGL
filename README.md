@@ -1,4 +1,4 @@
-WebGL exercises
+## WebGL exercises
 
 <b>server</b>
 $ python -m SimpleHTTPServer
