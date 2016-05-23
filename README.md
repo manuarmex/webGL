@@ -1,6 +1,8 @@
 ## WebGL exercises
 
 ### github 
+
+-Specify SSH key associated with this account (since I'm using two different accounts)
 ```
 $ nano ~/.ssh/config
 
