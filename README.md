@@ -1,6 +1,6 @@
 ## WebGL exercises
 
-### Server
+### Server 
 ````
 $ python -m SimpleHTTPServer
 ````
