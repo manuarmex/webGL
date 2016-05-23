@@ -1,6 +1,6 @@
 ## WebGL exercises
 
-### github 
+#### github 
 
 -Specify SSH key associated with this account (since I'm using two different accounts)
 ```
@@ -13,10 +13,11 @@ host github.com-manuarmex
 ```
 ```
 $ set-url origin git@github.com-manuarmex:manuarmex/webGL.git
--Or clone using git@github.com-manuarmex  instead of git@github.com
+or 
+clone using git@github.com-manuarmex  instead of git@github.com
 ```
 
-### Server
+#### Server
 ````
 $ python -m SimpleHTTPServer
 serves in 127.0.0.1:8000
