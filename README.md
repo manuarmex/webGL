@@ -12,7 +12,7 @@ host github.com-manuarmex
     IdentityFile ~/.ssh/id_rsa_manuarmex
 ```
 ```
-$ set-url origin git@github.com-manuarmex:manuarmex/webGL.git
+$ git remote set-url origin git@github.com-manuarmex:manuarmex/webGL.git
 or 
 clone using git@github.com-manuarmex  instead of git@github.com
 ```
